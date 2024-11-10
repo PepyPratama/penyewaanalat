@@ -1,0 +1,10 @@
+Specification :
+
+Color Temperature : 5600K
+LCD Display : LCD
+Power Source : AC Adapter
+CRI 93, TLCI 95, R9 80
+Rear LCD and On-Board Adjustment Dial
+
+Jumlah : 2
+Harga : 100.000

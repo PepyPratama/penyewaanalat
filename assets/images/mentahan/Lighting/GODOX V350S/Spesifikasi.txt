@@ -1,0 +1,11 @@
+Specification :
+
+Rechargeable Li-Ion Battery
+2.4 GHz XProS Wireless Radio System
+Recycle Time: 0.1 - 1.7 Seconds
+TTL, High-Speed Sync, Rear Curtain Sync
+Guide Number: 118' at ISO 100
+Wireless Master/Slave TTL Functionality
+
+Jumlah : 1
+Harga : 50.000

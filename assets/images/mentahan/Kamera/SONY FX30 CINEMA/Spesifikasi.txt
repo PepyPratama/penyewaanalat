@@ -1,0 +1,14 @@
+Specification :
+
+26.1MP APS-C BSI CMOS Sensor
+UHD 4K up to 120p
+Compact Form Designed for Cage-Free Use
+10-Bit 4:2:2 XAVC S-I,16-Bit Raw Output
+S-Cinetone/S-Log3/HLG, 14+ Stops DR
+Phase Detection AF/Face Tracking/Eye AF
+Standard ISO 100-32000 | Dual Base ISO
+Dual CFexpress Type A/SDXC Card Slots
+User LUTs & Timecode Sync Support
+
+Jumlah : 1 
+Harga : 375.000

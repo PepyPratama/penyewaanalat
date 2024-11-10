@@ -1,0 +1,14 @@
+Specification :
+
+Color Temperature : 3200-6500K
+CRI : 96+
+TCLI : 97+
+Battery Type : Lithium-polymer Battery (3.7V 2600mAh)
+Rated Output Power : 5W
+Operating Temperature : 0? to 45?
+Operatin Battery Life : Max Brightness >2hrs / Min Brightness >15hrs
+Battery Recharge Time : 1.5 hours via USB PD / 2 hours via USB DC 5V/2A / 3.5 hours via wireless charging
+Dimension : 93 x 61 x 17mm
+
+Jumlah : 2
+Harga : 100.000

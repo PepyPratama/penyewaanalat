@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+	font-family: "Poppins", sans-serif;
+}
+
+/* NAVBAR */
+.navbar {
+    transition: background-color 0.3s, box-shadow 0.3s, color 0.3s, transform 0.5s;
+    transform: translateY(0);
+}
+
+.navbar.transparent {
+    background-color: white;
+    color: black;
+}
+
+.navbar.solid {
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    color: black;
+}
+
+.navbar.hidden {
+    transform: translateY(-100%);
+}
+
+.navbar .nav-link {
+    transition: color 0.3s;
+}
+
+.navbar.transparent .navbar-brand,
+.navbar.transparent .nav-link {
+    color: rgb(93, 93, 93);
+}
+
+.navbar.solid .nav-link {
+    color: rgb(93, 93, 93);
+}
+
+.navbar.transparent .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"%3E%3Cpath stroke="rgba(255, 255, 255, 1)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"/%3E%3C/svg%3E');
+}
+
+.navbar.solid .navbar-toggler-icon {
+    background-image: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30"%3E%3Cpath stroke="rgba(0, 0, 0, 1)" stroke-width="2" stroke-linecap="round" stroke-miterlimit="10" d="M4 7h22M4 15h22M4 23h22"/%3E%3C/svg%3E');
+}
+
+.navbar .nav-link.active {
+    color: #FFCD39;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+.navbar .nav-link:hover {
+    color: #FFCD39;
+    font-weight: bold;
+}
+
+
+/* HERO */
+.hero {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover !important;
+    background-attachment: fixed;
+    height: 100vh;
+    color: white;
+}
+
+
+.hero h1 {
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+    margin: 0;
+}
+
+.hero p {
+    font-size: 15px;
+}
+
+/* EQUIPMENT */
+#equipment, #kontak {
+    background-color: rgb(245, 245, 245);
+}
+
+ #equipment .nav .btn {
+    border: none;
+    outline: none;
+}
+
+#equipment .nav .btn.active {
+    box-shadow: none;
+}

@@ -1,0 +1,14 @@
+Specification :
+
+Transmits up to 1080p60 HDMI video
+400' line-of-sight transmission to receiver, 300' to App
+OLED display
+Real-time app monitoring
+Simultaneously transmit to one receiver and two apps, or to three apps
+HDMI input and loop-out on transmitter for viewing on an on-board or another monitor
+Dual HDMI outputs on receiver
+Two antennas on transmitter
+Power via L-series battery (Not Included) or USB Type-C input
+
+Jumlah : 2
+Harga : 150.000

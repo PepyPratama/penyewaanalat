@@ -1,0 +1,10 @@
+Specification :
+
+Maximum Load: 3 kg
+Minimum Height: 47 cm
+Maximum Height: 152 cm
+Sections: 4
+Material: Aluminum
+
+Jumlah : 1 
+Harga : 100.000

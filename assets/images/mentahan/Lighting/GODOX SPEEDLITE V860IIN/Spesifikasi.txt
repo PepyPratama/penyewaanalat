@@ -1,0 +1,14 @@
+Specification :
+
+Built-In X Wireless Radio System
+Recycling 1.5 sec Full Power
+Guide Number: 197' at ISO 100
+Battery Gives 480 Full-Power Flashes
+Flash Coverage: 20-200mm
+Wireless Master/Slave TTL Functionality
+Flash Duration 1/300 to 1/20000 Second
+Recycle Time Approx. 1.5 Seconds
+Secondary Illumination Modeling Light
+
+Jumlah : 2
+Harga : 75.000
